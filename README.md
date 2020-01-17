@@ -1,5 +1,5 @@
 #Sornin
-#This project is a basic tool to insert the content of a json file into a database
+This project is a basic tool to insert the content of a json file into a database
 
 ##Install
 Run the following command to install the program
@@ -8,17 +8,17 @@ Run the following command to install the program
 ```
 
 #Run
-#Run the following command to run the program
+Run the following command to run the program
 ```
 /projectDirectory$ node init.js import --file path/to/file
 ```
 
 #commands
-#Run the following command to get the program help page (yargs)
+Run the following command to get the program help page (yargs)
 ```
 /projectDirectory$ node init.js help
 ```
-#Expected output :
+Expected output :
 ```
 tp-node-sornin [command]
 
