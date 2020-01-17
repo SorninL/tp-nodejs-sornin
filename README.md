@@ -1,19 +1,24 @@
-#Sornin
+**Sornin** -
 This project is a basic tool to insert the content of a json file into a database
 
-##Install
+**Mysql config** - 
+```
+utils.js:8:3
+```
+
+**Install** -
 Run the following command to install the program
 ```
 /projectDirectory$ npm install
 ```
 
-#Run
+**Run** -
 Run the following command to run the program
 ```
 /projectDirectory$ node init.js import --file path/to/file
 ```
 
-#commands
+**Commands** -
 Run the following command to get the program help page (yargs)
 ```
 /projectDirectory$ node init.js help
