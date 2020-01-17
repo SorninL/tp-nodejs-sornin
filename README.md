@@ -1,7 +1,7 @@
 **Sornin** -
 This project is a basic tool to insert the content of a json file into a database
 
-**Mysql config** - 
+**Mysql config**
 ```
 utils.js:8:3
 ```
